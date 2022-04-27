@@ -6,7 +6,7 @@
 import { SpotifyAPIKey } from './spotifyApiKey';
 
 export const environment = {
-  production: false,
+  production: true,
 
   // Here's our Spotify API token you can use for testing. Acquiring one of these tokens
   // is beyond the scope of this book. See spotify's developer docs for details
